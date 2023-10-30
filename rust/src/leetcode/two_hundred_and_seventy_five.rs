@@ -25,5 +25,6 @@ mod two_hundred_and_seventy_five_test {
     #[test]
     fn test_two_hundred_and_seventy_five() {
         assert_eq!(Solution::h_index(vec![0, 1, 3, 5, 6]), 3);
+        assert_eq!(Solution::h_index(vec![0, 1, 3, 5, 6, 7]), 3);
     }
 }
