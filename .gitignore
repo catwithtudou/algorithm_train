@@ -1,0 +1,7 @@
+*.swp
+target/
+.DS_Store
+*.pdb
+.idea
+*.iml
+*.o
