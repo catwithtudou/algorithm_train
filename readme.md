@@ -1,4 +1,8 @@
 
-- leetcode daily practice
+# 🏋️🏋️ (Rust&Go) algorithm training content
 
-Subsequent related content to be determined.
+The current content includes the following sections:
+- Leetcode Daily Question
+
+> Subsequent related content to be determined.
+
