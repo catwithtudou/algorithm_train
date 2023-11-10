@@ -21,7 +21,7 @@ impl Solution {
                 let mut tmp = Vec::new();
                 for &(i, j) in &f {
                     for &(x, y) in &[(i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)] {
-                        if 0 <= x && x < m && 0 <= y && y < n {
+                        if x < m && y < n {
                             if !on_fire[x][y] && grid[x][y] == 0 {
                                 on_fire[x][y] = true;
                                 tmp.push((x, y));
@@ -48,7 +48,7 @@ impl Solution {
                     }
 
                     for &(x, y) in &[(i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)] {
-                        if x >= 0 && x < m && y >= 0 && y < n {
+                        if x < m && y < n {
                             if !on_fire[x][y] && !vis[x][y] && grid[x][y] == 0 {
                                 if x == m - 1 && y == n - 1 {
                                     return true;
@@ -64,7 +64,7 @@ impl Solution {
                 tmp = Vec::new();
                 for &(i, j) in &f {
                     for &(x, y) in &[(i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)] {
-                        if 0 <= x && x < m && 0 <= y && y < n {
+                        if x < m && y < n {
                             if !on_fire[x][y] && grid[x][y] == 0 {
                                 on_fire[x][y] = true;
                                 tmp.push((x, y));
