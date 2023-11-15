@@ -10,3 +10,4 @@ pub mod two_thousand_two_hundred_fifty_eight;
 pub mod two_thousand_and_three_hundred;
 pub mod two_thousand_five_hundred_eighty_six;
 pub mod two_thousand_six_hundred_and_nine;
+pub mod two_thousand_six_hundred_twenty_five;
