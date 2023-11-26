@@ -4,6 +4,7 @@ pub mod two_thousand_and_three;
 pub mod three_hundred_and_eighteen;
 pub mod four_hundred_and_twenty_one;
 pub mod seven_hundred_and_sixty_five;
+pub mod eight_hundred_and_twenty_eight;
 pub mod one_thousand_four_hundred_and_ten;
 pub mod one_thousand_four_hundred_fifty_seven;
 pub mod two_thousand_one_hundred_and_three;
