@@ -15,7 +15,6 @@ impl Solution {
                 f[i] = f[i].max(f[r.0 as usize] + r.1);
             }
         }
-
         f[n]
     }
 }
