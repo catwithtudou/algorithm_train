@@ -10,7 +10,7 @@ impl Solution {
                 sk.pop();
                 res[i] += 1;
             }
-            if !res.is_empty() {
+            if !sk.is_empty() {
                 res[i] += 1;
             }
             sk.push(h);
