@@ -1,13 +1,19 @@
 package leetcode
 
 func addMinimum(word string) int {
-	n := len(word)
-	d := make([]int, n+1)
-	for i := 1; i <= n; i++ {
-		d[i] = d[i-1] + 2
-		if i > 1 && word[i-1] > word[i-2] {
-			d[i] = d[i-1] - 1
+	ans := int(word[0] - word[len(word)-1] + 2)
+	for i := 1; i < len(word); i++ {
+		ans += int((word[i] - word[i-1] + 2) % 3)
+	}
+	return ans
+}
+
+func addMinimumByOther(word string) int {
+	t := 1
+	for i := 1; i < len(word); i++ {
+		if word[i-1] >= word[i] {
+			t++
 		}
 	}
-	return d[n]
+	return 3*t - len(word)
 }
