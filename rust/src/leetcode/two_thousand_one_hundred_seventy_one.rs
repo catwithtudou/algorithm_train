@@ -8,9 +8,20 @@ impl Solution {
         let mut mx = 0i64;
         for (i, &v) in beans.iter().enumerate() {
             sum += v as i64;
-            mx = mx.max((v * (beans.len() - i) as i32) as i64);
+            mx = mx.max(v as i64 * (beans.len() - i) as i64);
         }
 
         sum - mx
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_minimum_removal() {
+        let ans = Solution::minimum_removal(vec![1, 2, 4, 5, 6]);
+        println!("{}", ans);
     }
 }
