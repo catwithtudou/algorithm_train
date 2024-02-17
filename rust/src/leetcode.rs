@@ -1,3 +1,5 @@
+
+pub mod twenty_four;
 pub mod twenty_seven;
 pub mod fifty_and_nine;
 pub mod seventy;
