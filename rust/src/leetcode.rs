@@ -8,6 +8,7 @@ pub mod one_hundred_and_forty_five;
 pub mod one_hundred_and_eighty_seven;
 pub mod one_hundred_and_sixty_two;
 pub mod two_hundred_and_three;
+pub mod two_hundred_and_six;
 pub mod two_hundred_and_nine;
 pub mod two_hundred_and_seventeen;
 pub mod two_hundred_and_seventy_five;
