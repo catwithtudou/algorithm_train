@@ -89,12 +89,12 @@ impl MyLinkedList {
     }
 }
 
-/**
- * Your MyLinkedList object will be instantiated and called as such:
- * let obj = MyLinkedList::new();
- * let ret_1: i32 = obj.get(index);
- * obj.add_at_head(val);
- * obj.add_at_tail(val);
- * obj.add_at_index(index, val);
- * obj.delete_at_index(index);
- */
+// /**
+//  * Your MyLinkedList object will be instantiated and called as such:
+//  * let obj = MyLinkedList::new();
+//  * let ret_1: i32 = obj.get(index);
+//  * obj.add_at_head(val);
+//  * obj.add_at_tail(val);
+//  * obj.add_at_index(index, val);
+//  * obj.delete_at_index(index);
+//  */
