@@ -2,16 +2,25 @@ package leetcode
 
 func maxOperations3040(nums []int) int {
 	n := len(nums)
-	res1 := helper(nums[2:], nums[0]+nums[1])       // 删除前两个数
-	res2 := helper(nums[:n-2], nums[n-2]+nums[n-1]) // 删除后两个数
-	res3 := helper(nums[1:n-1], nums[0]+nums[n-1])  // 删除第一个和最后一个数
+	res1, done := helper(nums[2:], nums[0]+nums[1]) // 删除前两个数
+	if done {
+		return n / 2
+	}
+	res2, done := helper(nums[:n-2], nums[n-2]+nums[n-1]) // 删除后两个数
+	if done {
+		return n / 2
+	}
+	res3, done := helper(nums[1:n-1], nums[0]+nums[n-1]) // 删除第一个和最后一个数
+	if done {
+		return n / 2
+	}
 	res := res1
 	res = max(res, res2)
 	res = max(res, res3)
 	return res + 1 // 加上第一次操作
 }
 
-func helper(a []int, target int) int {
+func helper(a []int, target int) (int, bool) {
 	n := len(a)
 	memo := make([][]int, n)
 	for i := range memo {
@@ -21,8 +30,14 @@ func helper(a []int, target int) int {
 		}
 	}
 	var dfs func(int, int) int
+	done := false
 	dfs = func(i, j int) (res int) {
+		if done {
+			return
+		}
+
 		if i >= j {
+			done = true
 			return
 		}
 		p := &memo[i][j]
@@ -41,5 +56,5 @@ func helper(a []int, target int) int {
 		*p = res // 记忆化
 		return
 	}
-	return dfs(0, n-1)
+	return dfs(0, n-1), done
 }
