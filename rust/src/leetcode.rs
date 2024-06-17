@@ -29,6 +29,7 @@ pub mod three_hundred_eighty_and_three;
 pub mod four_hundred_and_ten;
 pub mod four_hundred_and_nineteen;
 pub mod four_hundred_and_twenty_one;
+pub mod five_hundred_and_twenty_two;
 pub mod four_hundred_forty_and_seven;
 pub mod five_hundred_and_eighteen;
 pub mod five_hundred_and_twenty_one;
