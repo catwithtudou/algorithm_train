@@ -150,4 +150,5 @@ pub mod two_thousand_nine_hundred_eighty_one;
 pub mod three_thousand_and_thirty_three;
 pub mod three_thousand_and_thirty_eight;
 pub mod three_thousand_and_ninety_nine;
+pub mod three_thousand_one_hundred_and_one;
 pub mod three_thousand_one_hundred_and_fifty;
