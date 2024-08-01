@@ -174,3 +174,4 @@ pub mod three_thousand_one_hundred_and_six;
 pub mod three_thousand_one_hundred_eleven;
 pub mod three_thousand_one_hundred_and_twelve;
 pub mod three_thousand_one_hundred_and_fifty;
+pub mod lcp_forty;
