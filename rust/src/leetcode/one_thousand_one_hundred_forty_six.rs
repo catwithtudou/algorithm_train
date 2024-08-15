@@ -38,10 +38,10 @@ impl SnapshotArray {
 	}
 }
 
-/**
- * Your SnapshotArray object will be instantiated and called as such:
- * let obj = SnapshotArray::new(length);
- * obj.set(index, val);
- * let ret_2: i32 = obj.snap();
- * let ret_3: i32 = obj.get(index, snap_id);
- */
+// /**
+//  * Your SnapshotArray object will be instantiated and called as such:
+//  * let obj = SnapshotArray::new(length);
+//  * obj.set(index, val);
+//  * let ret_2: i32 = obj.snap();
+//  * let ret_3: i32 = obj.get(index, snap_id);
+//  */

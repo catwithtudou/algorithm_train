@@ -50,8 +50,8 @@ impl FindElements {
 	}
 }
 
-/**
- * Your FindElements object will be instantiated and called as such:
- * let obj = FindElements::new(root);
- * let ret_1: bool = obj.find(target);
- */
+// /**
+//  * Your FindElements object will be instantiated and called as such:
+//  * let obj = FindElements::new(root);
+//  * let ret_1: bool = obj.find(target);
+//  */

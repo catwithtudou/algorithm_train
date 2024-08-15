@@ -28,7 +28,7 @@ impl MyHashSet {
 		if self.contains(key) {
 			return;
 		}
-		self.data[self.hash(key)].push_back(key);
+		// self.data[self.hash(key)].push_back(key);
 	}
 
 	fn remove(&mut self, key: i32) {
@@ -38,14 +38,14 @@ impl MyHashSet {
 
 		let index = self.hash(key);
 		let list = &mut self.data[index];
-		let mut cursor = list.cursor_front_mut();
-		while let Some(&mut value) = cursor.current() {
-			if value == key {
-				cursor.remove_current();
-				break;
-			}
-			cursor.move_next();
-		}
+		// let mut cursor = list.cursor_front_mut();
+		// while let Some(&mut value) = cursor.current() {
+		// 	if value == key {
+		// 		cursor.remove_current();
+		// 		break;
+		// 	}
+		// 	cursor.move_next();
+		// }
 	}
 
 	fn contains(&self, key: i32) -> bool {
@@ -53,10 +53,10 @@ impl MyHashSet {
 	}
 }
 
-/**
- * Your MyHashSet object will be instantiated and called as such:
- * let obj = MyHashSet::new();
- * obj.add(key);
- * obj.remove(key);
- * let ret_3: bool = obj.contains(key);
- */
+// /**
+//  * Your MyHashSet object will be instantiated and called as such:
+//  * let obj = MyHashSet::new();
+//  * obj.add(key);
+//  * obj.remove(key);
+//  * let ret_3: bool = obj.contains(key);
+//  */

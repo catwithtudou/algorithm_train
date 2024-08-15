@@ -37,10 +37,10 @@ impl FrequencyTracker {
 	}
 }
 
-/**
- * Your FrequencyTracker object will be instantiated and called as such:
- * let obj = FrequencyTracker::new();
- * obj.add(number);
- * obj.delete_one(number);
- * let ret_3: bool = obj.has_frequency(frequency);
- */
+// /**
+//  * Your FrequencyTracker object will be instantiated and called as such:
+//  * let obj = FrequencyTracker::new();
+//  * obj.add(number);
+//  * obj.delete_one(number);
+//  * let ret_3: bool = obj.has_frequency(frequency);
+//  */
