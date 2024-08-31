@@ -181,6 +181,7 @@ pub mod three_thousand_one_hundred_and_seventeen;
 pub mod three_thousand_one_hundred_thirty_three;
 pub mod three_thousand_one_hundred_thirty_seven;
 pub mod three_thousand_one_hundred_and_fifty;
+pub mod three_thousand_one_hundred_twenty_seven;
 pub mod three_thousand_one_hundred_twenty_eight;
 pub mod three_thousand_one_hundred_and_thirty;
 pub mod three_thousand_one_hundred_thirty_one;
