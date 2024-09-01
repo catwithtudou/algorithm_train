@@ -13,6 +13,4 @@ impl Solution {
 
         check(0, 0) || check(0, 1) || check(1, 0) || check(1, 1)
     }
-
-
 }
