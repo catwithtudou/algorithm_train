@@ -68,6 +68,7 @@ pub mod one_thousand_and_fifty_two;
 pub mod one_thousand_and_ninty_four;
 pub mod one_thousand_one_hundred_and_three;
 pub mod one_thousand_one_hundred_forty_six;
+pub mod one_thousand_one_hundred_eighty_four;
 pub mod one_thousand_one_hundred_and_eighty_six;
 pub mod one_thousand_two_hundred_sixty_one;
 pub mod one_thousand_two_hundred_seventy_six;
