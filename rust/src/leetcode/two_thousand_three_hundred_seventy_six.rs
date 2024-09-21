@@ -23,7 +23,7 @@ impl Solution {
             let up = if is_limit { s[i] - b'0' } else { 9 };
             let low = if is_num { 0 } else { 1 };
             for d in low..=up {
-                if (mask << d & 1) == 0 {
+                if (mask >> d & 1) == 0 {
                     res += dfs(i + 1, mask | (1 << d), is_limit && d == up, true, s, memo);
                 }
             }
