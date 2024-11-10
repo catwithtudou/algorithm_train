@@ -1,6 +1,6 @@
 ﻿pub struct Solution;
 
-struct NeighborSum (Vec<[i32; 2]>);
+struct NeighborSum(Vec<[i32; 2]>);
 
 const DIRS_NEIGHBOR_SUM: [[i32; 2]; 8] = [
     [-1, 0],
@@ -13,14 +13,11 @@ const DIRS_NEIGHBOR_SUM: [[i32; 2]; 8] = [
     [1, -1],
 ];
 
-
-
 /**
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl NeighborSum {
-
     fn new(grid: Vec<Vec<i32>>) -> Self {
         let n = grid.len();
         let mut s = vec![[0; 2]; n * n];
@@ -41,11 +38,9 @@ impl NeighborSum {
 
     fn adjacent_sum(&self, value: i32) -> i32 {
         self.0[value as usize][0]
-
     }
 
     fn diagonal_sum(&self, value: i32) -> i32 {
         self.0[value as usize][1]
     }
 }
-
