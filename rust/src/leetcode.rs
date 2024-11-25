@@ -254,6 +254,7 @@ pub mod three_thousand_one_hundred_ninty_two;
 pub mod three_thousand_one_hundred_ninty_three;
 pub mod three_thousand_one_hundred_ninty_four;
 pub mod three_thousand_and_two_hundred;
+pub mod three_thousan_two_hundred_and_six;
 pub mod three_thousand_two_hundred_and_eleven;
 pub mod three_thousand_two_hundred_and_sixteen;
 pub mod three_thousand_two_hundred_twenty_two;
