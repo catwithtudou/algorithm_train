@@ -1,0 +1,5 @@
+{
+    "marscode.internal.experiments.marscode++": true,
+    "marscode.internal.enableFix": true,
+    "marscode.internal.enableInlineCommand": true
+}
