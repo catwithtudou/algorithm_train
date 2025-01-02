@@ -1,6 +1,6 @@
 ﻿pub struct Solution;
 
-use std::collections::{HashMap, HashSet};
+use std::collections::HashMap;
 
 impl Solution {
     pub fn count_of_pairs(nums: Vec<i32>) -> i32 {

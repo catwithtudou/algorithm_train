@@ -16,7 +16,7 @@ impl Solution {
         for (right, &c) in s.iter().enumerate() {
             let c = (c - b'a') as usize;
             cnt[c] -= 1;
-            while (cnt[c] < k) {
+            while cnt[c] < k {
                 cnt[(s[left] - b'a') as usize] += 1;
                 left += 1;
             }

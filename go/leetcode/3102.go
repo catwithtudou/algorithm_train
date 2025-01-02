@@ -3,7 +3,7 @@ package leetcode
 import (
 	"math"
 
-	"github.com/emirpasic/gods/trees/redblacktree"
+	"github.com/emirpasic/gods/v2/trees/redblacktree"
 )
 
 func minimumDistance(points [][]int) int {

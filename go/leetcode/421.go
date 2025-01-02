@@ -34,30 +34,30 @@ func findMaximumXOR(nums []int) (ans int) {
 
 const highBit = 30
 
-type trie struct {
-	left  *trie
-	right *trie
+type trieRe struct {
+	left  *trieRe
+	right *trieRe
 }
 
-func (t *trie) add(num int) {
+func (t *trieRe) add(num int) {
 	cur := t
 	for i := highBit; i >= 0; i-- {
 		bit := num >> i & 1
 		if bit == 0 {
 			if cur.left == nil {
-				cur.left = &trie{}
+				cur.left = &trieRe{}
 			}
 			cur = cur.left
 			continue
 		}
 		if cur.right == nil {
-			cur.right = &trie{}
+			cur.right = &trieRe{}
 		}
 		cur = cur.right
 	}
 }
 
-func (t *trie) search(num int) (x int) {
+func (t *trieRe) search(num int) (x int) {
 	cur := t
 	for i := highBit; i >= 0; i-- {
 		bit := num >> i & 1
@@ -86,7 +86,7 @@ func (t *trie) search(num int) (x int) {
 
 // 字典树
 func findMaximumXOR_One(nums []int) (ans int) {
-	root := &trie{}
+	root := &trieRe{}
 	for i := 1; i < len(nums); i++ {
 		root.add(nums[i-1])
 		ans = max(ans, root.search(nums[i]))

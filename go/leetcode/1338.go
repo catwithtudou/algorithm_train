@@ -1,8 +1,9 @@
 ﻿package leetcode
 
 import (
-	"maps"
 	"slices"
+
+	"golang.org/x/exp/maps"
 )
 
 func minSetSize(arr []int) int {
