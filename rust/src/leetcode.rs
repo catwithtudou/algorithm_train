@@ -60,6 +60,7 @@ pub mod seven_hundred_twenty_and_one;
 pub mod seven_hundred_and_twenty_four;
 pub mod eight_hundred_and_twenty_five;
 pub mod seven_hundred_and_twenty_nine;
+pub mod seven_hundred_and_thirty_one;
 pub mod seven_hundred_and_forty_three;
 pub mod seven_hundred_and_forty_six;
 pub mod seven_hundred_and_sixty_five;
