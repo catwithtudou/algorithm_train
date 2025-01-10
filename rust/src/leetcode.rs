@@ -309,5 +309,6 @@ pub mod three_thousand_two_hundred_and_eighty;
 pub mod three_thousand_two_hundred_eighty_five;
 pub mod three_thousand_two_hundred_ninty_one;
 pub mod three_thousand_two_hundred_ninty_two;
+pub mod three_thousand_two_hundred_ninty_eight;
 
 pub mod lcp_forty;
