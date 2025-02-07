@@ -38,3 +38,34 @@ func generateMatrix(n int) [][]int {
 	}
 	return result
 }
+
+func generateMatrixII(n int) [][]int {
+	ans := make([][]int, n)
+	for i := range ans {
+		ans[i] = make([]int, n)
+	}
+	l, r, b, t, val := 0, n-1, n-1, 0, 1
+	for val <= n*n {
+		for i := l; i <= r; i++ {
+			ans[t][i] = val
+			val++
+		}
+		t++
+		for i := t; i <= b; i++ {
+			ans[i][r] = val
+			val++
+		}
+		r--
+		for i := r; i >= l; i-- {
+			ans[b][i] = val
+			val++
+		}
+		b--
+		for i := b; i >= t; i-- {
+			ans[i][l] = val
+			val++
+		}
+		l++
+	}
+	return ans
+}

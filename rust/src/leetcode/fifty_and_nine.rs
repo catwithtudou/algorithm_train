@@ -43,4 +43,33 @@ impl Solution {
         }
         result
     }
+
+    pub fn generate_matrix_other(n: i32) -> Vec<Vec<i32>> {
+        let mut ans = vec![vec![0; n as usize]; n as usize];
+        let (mut l, mut r, mut b, mut t, mut val) = (0, n - 1, n - 1, 0, 1);
+        while val <= n * n {
+            for i in l..=r {
+                ans[t as usize][i as usize] = val;
+                val += 1;
+            }
+            t += 1;
+            for i in t..=b {
+                ans[i as usize][r as usize] = val;
+                val += 1;
+            }
+            r -= 1;
+            for i in (l..=r).rev() {
+                ans[b as usize][i as usize] = val;
+                val += 1;
+            }
+            b -= 1;
+            for i in (t..=b).rev() {
+                ans[i as usize][l as usize] = val;
+                val += 1;
+            }
+            l += 1;
+        }
+
+        ans
+    }
 }
