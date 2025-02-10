@@ -1,4 +1,6 @@
-﻿use std::collections::VecDeque;
+﻿pub struct Solution;
+
+use std::collections::VecDeque;
 
 impl Solution {
     // 定义常量作为结构体的关联常量
