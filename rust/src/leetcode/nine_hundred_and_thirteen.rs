@@ -52,8 +52,8 @@ impl Solution {
                     continue;
                 }
 
-                if (prev_t == Self::MOUSE_TURN && res == Self::MOUSE_WIN) ||
-                   (prev_t == Self::CAT_TURN && res == Self::CAT_WIN)
+                if (prev_t == Self::MOUSE_TURN && res == Self::MOUSE_WIN)
+                    || (prev_t == Self::CAT_TURN && res == Self::CAT_WIN)
                 {
                     color[prev_m][prev_c][prev_t] = res;
                     queue.push_back((prev_m, prev_c, prev_t, res));
@@ -76,7 +76,12 @@ impl Solution {
     }
 
     // 将辅助函数移动到 impl 块内
-    fn get_prev_states(graph: &[Vec<i32>], m: usize, c: usize, t: usize) -> Vec<(usize, usize, usize)> {
+    fn get_prev_states(
+        graph: &[Vec<i32>],
+        m: usize,
+        c: usize,
+        t: usize,
+    ) -> Vec<(usize, usize, usize)> {
         let mut prev_states = Vec::new();
         if t == Self::CAT_TURN {
             for &prev_m in &graph[m] {
