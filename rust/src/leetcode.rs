@@ -111,6 +111,7 @@ pub mod one_thousand_one_hundred_and_eighty_six;
 pub mod one_thousand_two_hundred_twenty_seven;
 pub mod one_thousand_two_hundred_sixty_one;
 pub mod one_thousand_two_hundred_seventy_six;
+pub mod one_thousand_two_hundred_eighty_seven;
 pub mod one_thousand_two_hundred_ninety_nine;
 pub mod one_thousand_three_hundred_twenty_nine;
 pub mod one_thousand_three_hundred_thirty_eight;
