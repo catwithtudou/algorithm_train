@@ -55,6 +55,7 @@ pub mod five_hundred_and_fifty_one;
 pub mod five_hundred_and_fifty_two;
 pub mod five_hundred_and_seventy_five;
 pub mod five_hundred_and_ninety_eight;
+pub mod six_hundred_and_twenty_four;
 pub mod six_hundred_and_thrity_two;
 pub mod six_hundred_and_thirty_three;
 pub mod six_hundred_and_sixty_one;
