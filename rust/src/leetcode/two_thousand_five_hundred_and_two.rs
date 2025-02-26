@@ -1,9 +1,9 @@
 ﻿pub struct Solution;
-
+#[allow(dead_code)]
 struct Allocator {
     list: Vec<i32>,
 }
-
+#[allow(dead_code)]
 impl Allocator {
     fn new(n: i32) -> Self {
         Self {

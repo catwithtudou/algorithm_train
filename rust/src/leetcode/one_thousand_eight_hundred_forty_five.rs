@@ -1,7 +1,7 @@
 ﻿use std::collections::BinaryHeap;
 
 pub struct Solution;
-
+#[allow(dead_code)]
 struct SeatManager {
     seats:i32,
     available:BinaryHeap<i32>,
@@ -12,6 +12,7 @@ struct SeatManager {
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
+#[allow(dead_code)]
 impl SeatManager {
 
     fn new(_: i32) -> Self {

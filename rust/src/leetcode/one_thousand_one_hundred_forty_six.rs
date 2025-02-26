@@ -1,5 +1,5 @@
 use std::collections::HashMap;
-
+#[allow(dead_code)]
 struct SnapshotArray {
 	cur_id: i32,
 	history: HashMap<i32, Vec<(i32, i32)>>,
@@ -10,8 +10,9 @@ struct SnapshotArray {
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
+#[allow(dead_code)]
 impl SnapshotArray {
-	fn new(length: i32) -> Self {
+	fn new(_: i32) -> Self {
 		Self {
 			cur_id: 0,
 			history: HashMap::new(),

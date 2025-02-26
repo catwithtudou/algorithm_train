@@ -2,7 +2,7 @@
 
 impl Solution {
     pub fn reverse_str(mut s: String, k: i32) -> String {
-        let mut re_s = unsafe { s.as_bytes_mut() };
+        let  re_s = unsafe { s.as_bytes_mut() };
         let k = k as usize;
         let n = re_s.len();
         for i in (0..n).step_by(2 * k) {

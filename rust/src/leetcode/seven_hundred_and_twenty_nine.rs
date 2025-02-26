@@ -2,10 +2,12 @@ pub struct Solution;
 
 use std::collections::BTreeMap;
 
+#[allow(dead_code)]
 struct MyCalendar {
     tm: BTreeMap<i32, i32>,
 }
 
+#[allow(dead_code)]
 impl MyCalendar {
     fn new() -> Self {
         MyCalendar {

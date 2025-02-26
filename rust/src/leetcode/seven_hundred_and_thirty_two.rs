@@ -1,6 +1,7 @@
 ﻿pub struct Solution;
-
+#[allow(dead_code)]
 type NodeRef = Box<TreeNode>;
+#[allow(dead_code)]
 struct TreeNode {
     l: i32,
     r: i32,
@@ -9,7 +10,7 @@ struct TreeNode {
     left: Option<NodeRef>,
     right: Option<NodeRef>,
 }
-
+#[allow(dead_code)]
 impl TreeNode {
     fn new(l: i32, r: i32) -> NodeRef {
         Box::new(Self {
@@ -74,11 +75,11 @@ impl TreeNode {
         }
     }
 }
-
+#[allow(dead_code)]
 struct MyCalendarThree {
     tree: NodeRef,
 }
-
+#[allow(dead_code)]
 impl MyCalendarThree {
     fn new() -> Self {
         Self {

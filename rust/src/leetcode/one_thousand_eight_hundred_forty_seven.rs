@@ -1,12 +1,12 @@
 ﻿pub struct Solution;
 
 use std::collections::BTreeSet;
-
+#[allow(dead_code)]
 impl Solution {
     pub fn closest_room(mut rooms: Vec<Vec<i32>>, queries: Vec<Vec<i32>>) -> Vec<i32> {
         rooms.sort_unstable_by_key(|r| -r[1]);
 
-        let mut q = queries.len();
+        let  q = queries.len();
         let mut query_ids = (0..q).collect::<Vec<_>>();
         query_ids.sort_unstable_by_key(|&i| -queries[i][1]);
 

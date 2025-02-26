@@ -1,5 +1,5 @@
 ﻿pub struct Solution;
-
+#[allow(dead_code)]
 struct OrderedStream {
     str_list: Vec<String>,
     ptr: usize,
@@ -9,6 +9,7 @@ struct OrderedStream {
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
+#[allow(dead_code)]
 impl OrderedStream {
     fn new(n: i32) -> Self {
         Self {
