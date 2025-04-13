@@ -16,7 +16,7 @@ func countGoodIntegers(n int, k int) (ans int64) {
 
 	vis := make(map[string]bool)
 	base := int(math.Pow10((n - 1) / 2))
-	for i := base; i <= base*10; i++ {
+	for i := base; i < base*10; i++ {
 		x, t := i, i
 		if n%2 > 0 {
 			t /= 10
