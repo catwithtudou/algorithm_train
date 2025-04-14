@@ -133,6 +133,7 @@ pub mod one_thousand_four_hundred_and_fifty;
 pub mod one_thousand_four_hundred_fifty_seven;
 pub mod one_thousand_four_hundred_sixty_six;
 pub mod one_thousand_four_hundred_seventy_two;
+pub mod one_thousand_five_hundred_thirty_four;
 pub mod one_thousand_five_hundred_forty_seven;
 pub mod one_thousand_five_hundred_fifty_two;
 pub mod one_thousand_five_hundred_sixty_one;
