@@ -76,6 +76,7 @@ pub mod seven_hundred_and_six;
 pub mod seven_hundred_and_seven;
 pub mod seven_hundred_twenty_and_one;
 pub mod seven_hundred_and_twenty_four;
+pub mod seven_hundred_and_eighty_one;
 pub mod eight_hundred_and_twenty_five;
 pub mod seven_hundred_and_twenty_nine;
 pub mod seven_hundred_and_thirty_one;
