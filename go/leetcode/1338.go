@@ -1,28 +1,29 @@
 ﻿package leetcode
 
-import (
-	"slices"
+// import (
+// 	"slices"
+// 
 
-	"golang.org/x/exp/maps"
-)
+// 	"golang.org/x/exp/maps"
+// )
 
-func minSetSize(arr []int) int {
-	freq := make(map[int]int, 0)
-	for _, v := range arr {
-		freq[v]++
-	}
+// func minSetSize(arr []int) int {
+// 	freq := make(map[int]int, 0)
+// 	for _, v := range arr {
+// 		freq[v]++
+// 	}
 
-	cnt := slices.SortedFunc(maps.Values(freq), func(i, j int) int {
-		return j - i
-	})
+// 	cnt := slices.SortedFunc(maps.Values(freq), func(i, j int) int {
+// 		return j - i
+// 	})
 
-	nums := 0
-	for i, c := range cnt {
-		nums += c
-		if nums >= len(arr)/2 {
-			return i + 1
-		}
-	}
+// 	nums := 0
+// 	for i, c := range cnt {
+// 		nums += c
+// 		if nums >= len(arr)/2 {
+// 			return i + 1
+// 		}
+// 	}
 
-	return -1
-}
+// 	return -1
+// }
