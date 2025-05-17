@@ -10,6 +10,7 @@ pub mod fifty_and_nine;
 pub mod sixty_and_one;
 pub mod sixty_three;
 pub mod seventy;
+pub mod seventy_five;
 pub mod eighty;
 pub mod eighty_one;
 pub mod eighty_two;
