@@ -320,6 +320,7 @@ pub mod two_thousand_nine_hundred_twenty_four;
 pub mod two_thousand_nine_hundred_twenty_eight;
 pub mod two_thousand_nine_hundred_thrity_one;
 pub mod two_thousand_nine_hundred_thirty_eight;
+pub mod two_thousand_nine_hundred_forty_two;
 pub mod two_thousand_nine_hundred_forty_four;
 pub mod two_thousand_nine_hundred_fifty_one;
 pub mod two_thousand_nine_hundred_and_fifty_six;
