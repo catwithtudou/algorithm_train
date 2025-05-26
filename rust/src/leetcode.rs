@@ -160,6 +160,7 @@ pub mod one_thousand_seven_hundred_ninty_three;
 pub mod one_thousand_eight_hundred_and_twelve;
 pub mod one_thousand_eight_hundred_forty_five;
 pub mod one_thousand_eight_hundred_forty_seven;
+pub mod one_thousand_eight_hundred_fifty_seven;
 pub mod one_thousand_eight_hundred_sixty_three;
 pub mod one_thousand_eight_hundred_and_seventy;
 pub mod one_thousand_eight_hundred_eighty_and_three;
