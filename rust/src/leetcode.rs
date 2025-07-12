@@ -175,6 +175,7 @@ pub mod one_thousand_eight_hundred_sixty_three;
 pub mod one_thousand_eight_hundred_and_seventy;
 pub mod one_thousand_eight_hundred_eighty_and_three;
 pub mod one_thousand_eight_hundred_eighty_four;
+pub mod one_thousand_and_nine_hundred;
 pub mod one_thousand_nine_hundred_and_one;
 pub mod one_thousand_nine_hundred_and_twenty;
 pub mod one_thousand_nine_hundred_twenty_two;
