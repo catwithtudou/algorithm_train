@@ -185,6 +185,7 @@ pub mod one_thousand_nine_hundred_twenty_eight;
 pub mod one_thousand_nine_hundred_thirty_one;
 pub mod one_thousand_nine_hundred_forty_four;
 pub mod one_thousand_nine_hundred_forty_eight;
+pub mod one_thousand_nine_hundred_fifty_seven;
 pub mod one_thousand_nine_hundred_fifty_eight;
 pub mod one_thousand_nine_hundred_sixty_two;
 pub mod one_thousand_nine_hundred_sixty_three;
