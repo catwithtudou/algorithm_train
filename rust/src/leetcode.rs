@@ -247,6 +247,7 @@ pub mod two_thousand_three_hundred_and_four;
 pub mod two_thousand_three_hundred_and_six;
 pub mod two_thousand_three_hundred_and_eleven;
 pub mod two_thousand_three_hundred_and_twelve;
+pub mod two_thousand_three_hundred_twenty_two;
 pub mod two_thousand_three_hundred_thirty_six;
 pub mod two_thousand_three_hundred_thirty_eight;
 pub mod two_thousand_three_hundred_fifty_nine;
