@@ -484,5 +484,6 @@ pub mod three_thousand_four_hundred_and_forty;
 pub mod three_thousand_four_hundred_forty_two;
 pub mod three_thousand_four_hundred_forty_three;
 pub mod three_thousand_four_hundred_forty_five;
+pub mod three_thousand_four_hundred_eighty_seven;
 
 pub mod lcp_forty;
