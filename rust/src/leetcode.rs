@@ -309,6 +309,7 @@ pub mod two_thousand_six_hundred_sixty_one;
 pub mod two_thousand_six_hundred_seventy_one;
 pub mod two_thousand_six_hundred_seventy_three;
 pub mod two_thousand_six_hundred_and_eighty;
+pub mod two_thousand_six_hundred_eighty_three;
 pub mod two_thousand_six_hundred_ninty_six;
 pub mod two_thousand_six_hundred_ninty_seven;
 pub mod two_thousand_seven_hundred_and_seven;
