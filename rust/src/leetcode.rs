@@ -211,6 +211,7 @@ pub mod two_thousand_and_ninety_four;
 pub mod two_thousand_and_ninety_nine;
 pub mod two_thousand_one_hundred_and_three;
 pub mod two_thousand_one_hundred_and_five;
+pub mod two_thousand_one_hundred_and_six;
 pub mod two_thousand_one_hundred_and_nine;
 pub mod two_thousand_one_hundred_and_sixteen;
 pub mod two_thousand_one_hundred_twenty_seven;
