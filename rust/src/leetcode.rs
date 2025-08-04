@@ -98,6 +98,7 @@ pub mod eight_hundred_and_twenty_eight;
 pub mod eight_hundred_and_seventy_one;
 pub mod eight_hundred_and_eighty_one;
 pub mod eight_hundred_and_eighty_seven;
+pub mod nine_hundred_and_four;
 pub mod nine_hundred_and_seven;
 pub mod nine_hundred_and_eight;
 pub mod nine_hundred_and_nine;
