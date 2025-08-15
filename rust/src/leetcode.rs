@@ -44,6 +44,7 @@ pub mod three_hundred_and_eighteen;
 pub mod three_hundred_twenty_and_two;
 pub mod three_hundred_and_twenty_six;
 pub mod three_hundred_thirty_and_one;
+pub mod three_hundred_and_forty_two;
 pub mod three_hundred_and_fifty;
 pub mod three_hundred_sixty_and_five;
 pub mod three_hundred_sixty_and_eight;
