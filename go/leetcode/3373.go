@@ -21,7 +21,7 @@ func countTree(edges [][]int) (g [][]int, cnt [2]int) {
 	return
 }
 
-func maxTargetNodes(edges1 [][]int, edges2 [][]int) []int {
+func maxTargetNodesII(edges1 [][]int, edges2 [][]int) []int {
 	_, cnt2 := countTree(edges2)
 	max2 := max(cnt2[0], cnt2[1])
 
