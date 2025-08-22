@@ -445,6 +445,7 @@ pub mod three_thousand_one_hundred_ninty_one;
 pub mod three_thousand_one_hundred_ninty_two;
 pub mod three_thousand_one_hundred_ninty_three;
 pub mod three_thousand_one_hundred_ninty_four;
+pub mod three_thousand_one_hundred_ninty_five;
 pub mod three_thousand_and_two_hundred;
 pub mod three_thousand_two_hundred_and_one;
 pub mod three_thousand_two_hundred_and_two;
