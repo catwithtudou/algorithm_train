@@ -463,6 +463,7 @@ pub mod three_thousand_one_hundred_seventy_six;
 pub mod three_thousand_one_hundred_seventy_seven;
 pub mod three_thousand_one_hundred_eighty_four;
 pub mod three_thousand_one_hundred_eighty_five;
+pub mod three_thousand_one_hundred_eighty_six;
 pub mod three_thousand_one_hundred_ninty_one;
 pub mod three_thousand_one_hundred_ninty_two;
 pub mod three_thousand_one_hundred_ninty_three;
