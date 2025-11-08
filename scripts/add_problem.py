@@ -267,12 +267,12 @@ def main(argv: List[str]) -> int:
     )
     parser.add_argument("number", type=int, help="problem number, e.g. 3499")
     parser.add_argument(
-        "--readme-entry",
+        "--tt",
         help="text to place inside the bold section of leetcode/readme.md "
         "(e.g. \"[hard]3347. 执行操作后元素的最高频率 II\")",
     )
     parser.add_argument(
-        "--extra",
+        "--sl",
         default="",
         help="optional text appended after the bold section, "
         "for example tags like 「滑动窗口」",
@@ -294,11 +294,11 @@ def main(argv: List[str]) -> int:
     if mod_changed:
         touched.append(mod_path)
 
-    if args.readme_entry:
+    if args.tt:
         readme_path, readme_changed = update_readme(
             root,
-            args.readme_entry.strip(),
-            args.extra or "",
+            args.tt.strip(),
+            args.sl or "",
         )
         if readme_changed:
             touched.append(readme_path)
@@ -310,7 +310,7 @@ def main(argv: List[str]) -> int:
     else:
         print("No files changed.")
     print(f"Rust module name: {module_name}")
-    if not args.readme_entry:
+    if not args.tt:
         print("Readme unchanged (no entry provided).")
     return 0
 
