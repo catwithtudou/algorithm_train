@@ -502,6 +502,7 @@ pub mod three_thousand_two_hundred_twenty_seven;
 pub mod three_thousand_two_hundred_twenty_eight;
 pub mod three_thousand_two_hundred_thirty_two;
 pub mod three_thousand_two_hundred_thirty_three;
+pub mod three_thousand_two_hundred_thirty_four;
 pub mod three_thousand_two_hundred_thirty_eight;
 pub mod three_thousand_two_hundred_thirty_nine;
 pub mod three_thousand_two_hundred_and_forty;
