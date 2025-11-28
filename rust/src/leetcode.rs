@@ -404,6 +404,7 @@ pub mod two_thousand_eight_hundred_and_fifty;
 pub mod two_thousand_eight_hundred_and_sixty;
 pub mod two_thousand_eight_hundred_sixty_one;
 pub mod two_thousand_eight_hundred_sixty_four;
+pub mod two_thousand_eight_hundred_seventy_two;
 pub mod two_thousand_eight_hundred_seventy_three;
 pub mod two_thousand_eight_hundred_seventy_four;
 pub mod two_thousand_eight_hundred_ninety_four;
