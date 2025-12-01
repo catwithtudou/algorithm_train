@@ -261,6 +261,7 @@ pub mod two_thousand_one_hundred_twenty_seven;
 pub mod two_thousand_one_hundred_twenty_nine;
 pub mod two_thousand_one_hundred_thirty_one;
 pub mod two_thousand_one_hundred_thirty_eight;
+pub mod two_thousand_one_hundred_forty_one;
 pub mod two_thousand_one_hundred_forty_five;
 pub mod two_thousand_one_hundred_fifty_four;
 pub mod two_thousand_one_hundred_sixty_three;
