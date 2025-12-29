@@ -41,6 +41,7 @@ pub mod two_hundred_and_seventy_five;
 pub mod two_hundred_and_thirty_one;
 pub mod four_hundred_seventy_four;
 pub mod seven_hundred_seventeen;
+pub mod seven_hundred_fifty_six;
 pub mod seven_hundred_fifty_seven;
 pub mod nine_hundred_forty_four;
 pub mod nine_hundred_fifty_five;
