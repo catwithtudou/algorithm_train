@@ -475,6 +475,7 @@ pub mod three_thousand_and_twenty_five;
 pub mod three_thousand_and_twenty_seven;
 pub mod three_thousand_and_thirty_three;
 pub mod three_thousand_and_thirty_eight;
+pub mod three_thousand_forty_seven;
 pub mod three_thousand_and_sixty_five;
 pub mod three_thousand_and_sixty_six;
 pub mod three_thousand_and_sixty_eight;
