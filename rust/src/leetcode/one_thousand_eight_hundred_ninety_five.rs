@@ -12,7 +12,7 @@ impl Solution {
         // diag_sum: (m+1) x (n+1)   (top-left -> bottom-right)
         let mut diag_sum = vec![vec![0i32; n + 1]; m + 1];
         // anti_sum: (m+1) x (n+1)   (top-right -> bottom-left)
-        let mut anti_sum = veca s da s da s da s d![vec![0i32; n + 1]; m + 1];
+        let mut anti_sum = vec![vec![0i32; n + 1]; m + 1];
 
         // build prefix sums
         for i in 0..m {
