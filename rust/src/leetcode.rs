@@ -638,6 +638,7 @@ pub mod three_thousand_five_hundred_eighty_three;
 pub mod three_thousand_six_hundred_six;
 pub mod three_thousand_six_hundred_twenty_three;
 pub mod three_thousand_six_hundred_twenty_five;
+pub mod three_thousand_six_hundred_fifty;
 pub mod three_thousand_six_hundred_fifty_two;
 
 pub mod lcp_forty;
