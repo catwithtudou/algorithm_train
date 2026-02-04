@@ -32,7 +32,7 @@ func maximumProfit(prices []int, k int) int64 {
 		defer func() { *ptr = res }() // 记忆化
 		p := prices[i]
 		if endState == 0 {
-			return max(dfs(i-1, j, 0), dfs(i-1, j, 1)+p, dfs(i-1, j, 2)-p)
+			return max(dfs(i-1, j, 0), max(dfs(i-1, j, 1)+p, dfs(i-1, j, 2)-p))
 		}
 		if endState == 1 {
 			return max(dfs(i-1, j, 1), dfs(i-1, j-1, 0)-p)

@@ -1,6 +1,6 @@
 package leetcode
 
-func minDeletionSize(strs []string) (ans int) {
+func minDeletionSize944(strs []string) (ans int) {
 	m, n := len(strs), len(strs[0])
 	for i := range n {
 		for j := range m - 1 {
