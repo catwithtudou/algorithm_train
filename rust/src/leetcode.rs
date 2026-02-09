@@ -30,6 +30,7 @@ pub mod one_hundred_and_twenty;
 pub mod one_hundred_and_thrity_one;
 pub mod one_hundred_and_thirty_two;
 pub mod one_hundred_and_thirty_five;
+pub mod one_hundred_thirty_eight;
 pub mod one_hundred_and_forty_five;
 pub mod one_hundred_and_sixty_five;
 pub mod one_hundred_and_eighty_seven;
