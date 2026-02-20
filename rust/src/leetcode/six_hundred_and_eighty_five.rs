@@ -11,7 +11,7 @@ impl Solution {
 
         impl ConUnionFind {
             fn new(n: usize) -> ConUnionFind {
-                let mut anc: Vec<i32> = (0..n).map(|x| x as i32).collect();
+                let anc: Vec<i32> = (0..n).map(|x| x as i32).collect();
                 ConUnionFind { anc }
             }
 

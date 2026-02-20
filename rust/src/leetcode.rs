@@ -53,6 +53,7 @@ pub mod seven_hundred_seventeen;
 pub mod seven_hundred_forty_four;
 pub mod seven_hundred_fifty_six;
 pub mod seven_hundred_fifty_seven;
+pub mod seven_hundred_sixty_one;
 pub mod seven_hundred_ninety_nine;
 pub mod eight_hundred_forty;
 pub mod eight_hundred_sixty_five;
