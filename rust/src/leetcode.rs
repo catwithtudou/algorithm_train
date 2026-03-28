@@ -402,6 +402,7 @@ pub mod two_thousand_five_hundred_forty_six;
 pub mod two_thousand_five_hundred_and_fifty;
 pub mod two_thousand_five_hundred_sixty_three;
 pub mod two_thousand_five_hundred_sixty_six;
+pub mod two_thousand_five_hundred_seventy_three;
 pub mod two_thousand_five_hundred_seventy_five;
 pub mod two_thousand_five_hundred_and_eighty;
 pub mod two_thousand_five_hundred_eighty_three;
