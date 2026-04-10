@@ -701,5 +701,6 @@ pub mod three_thousand_six_hundred_sixty_six;
 pub mod three_thousand_seven_hundred_thirteen;
 pub mod three_thousand_seven_hundred_fourteen;
 pub mod three_thousand_seven_hundred_nineteen;
+pub mod three_thousand_seven_hundred_forty;
 
 pub mod lcp_forty;
