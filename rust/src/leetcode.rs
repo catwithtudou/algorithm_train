@@ -70,6 +70,7 @@ pub mod one_thousand_one_hundred_sixty_one;
 pub mod one_thousand_two_hundred;
 pub mod one_thousand_two_hundred_sixty_two;
 pub mod one_thousand_two_hundred_sixty_six;
+pub mod one_thousand_three_hundred_twenty;
 pub mod one_thousand_three_hundred_thirty_nine;
 pub mod one_thousand_three_hundred_fifty_one;
 pub mod one_thousand_three_hundred_fifty_six;
