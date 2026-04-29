@@ -603,6 +603,7 @@ pub mod three_thousand_two_hundred_seventeen;
 pub mod three_thousand_two_hundred_and_eighteen;
 pub mod three_thousand_two_hundred_and_nineteen;
 pub mod three_thousand_two_hundred_twenty_two;
+pub mod three_thousand_two_hundred_twenty_five;
 pub mod three_thousand_two_hundred_twenty_six;
 pub mod three_thousand_two_hundred_twenty_seven;
 pub mod three_thousand_two_hundred_twenty_eight;
