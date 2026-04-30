@@ -1,6 +1,6 @@
 package leetcode
 
-func maximumScore(grid [][]int) (ans int64) {
+func maximumScore3225(grid [][]int) (ans int64) {
 	n := len(grid)
 	colSum := make([][]int64, n)
 	for j := range colSum {
@@ -33,13 +33,13 @@ func maximumScore(grid [][]int) (ans int64) {
 		res := int64(0)
 		for cur := 0; cur <= n; cur++ {
 			if cur == pre { // 情况一：相等
-				res = max(res, dfs(j-1, cur, 0))
+				res = maxInt64(res, dfs(j-1, cur, 0))
 			} else if cur < pre { // 情况二：右边黑格多
-				res = max(res, dfs(j-1, cur, 1)+colSum[j][pre]-colSum[j][cur])
+				res = maxInt64(res, dfs(j-1, cur, 1)+colSum[j][pre]-colSum[j][cur])
 			} else if dec == 0 { // 情况三：cur > pre >= 第 j+2 列的黑格个数
-				res = max(res, dfs(j-1, cur, 0)+colSum[j+1][cur]-colSum[j+1][pre])
+				res = maxInt64(res, dfs(j-1, cur, 0)+colSum[j+1][cur]-colSum[j+1][pre])
 			} else if pre == 0 { // 情况四（凹形）：cur > pre < 第 j+2 列的黑格个数
-				res = max(res, dfs(j-1, cur, 0))
+				res = maxInt64(res, dfs(j-1, cur, 0))
 			}
 		}
 
@@ -48,7 +48,7 @@ func maximumScore(grid [][]int) (ans int64) {
 	}
 
 	for i := 0; i <= n; i++ {
-		ans = max(ans, dfs(n-2, i, 0))
+		ans = maxInt64(ans, dfs(n-2, i, 0))
 	}
 
 	return
