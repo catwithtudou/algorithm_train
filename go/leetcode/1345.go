@@ -1,6 +1,6 @@
 package leetcode
 
-func minJumps(arr []int) (ans int) {
+func minJumps1345(arr []int) (ans int) {
 	pos := make(map[int][]int)
 	for i, x := range arr {
 		pos[x] = append(pos[x], i)
