@@ -1,0 +1,56 @@
+go/leetcode/1871.go
+  76f900a4ee2d3a92 11 gitai:{"mixed_line_ranges":[{"Single":11}],"operations":[]}
+  8d66975cbed10003 10,12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "183a26201a52453a8f20b9a7c72c00de40324ff0",
+  "prompts": {
+    "76f900a4ee2d3a92": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d324f05b-72f3-4cd9-809c-3c9f04323c5c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "8d66975cbed10003": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-cf9f49c5-355f-4877-9a6c-41ae77688dec",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 1
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/1871.go": [
+      {
+        "hash": "76f900a4ee2d3a92",
+        "line_ranges": [
+          {
+            "Single": 11
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 11
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
