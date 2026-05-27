@@ -1,0 +1,124 @@
+go/leetcode/3121.go
+  661327e94b3a893d 12-14 gitai:{"mixed_line_ranges":[{"Single":12}],"operations":[]}
+  a6f81edda9aa82dc 11
+  41881b3df6111dfa 15-16
+rust/src/leetcode/three_thousand_one_hundred_twenty_one.rs
+  b817b7343f60f2c6 8-9 gitai:{"mixed_line_ranges":[{"Range":[8,9]}],"operations":[]}
+  15eab4a87b67544a 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "5ac63e4a00f7e7027f3f8ee65c658b03d3563f62",
+  "prompts": {
+    "15eab4a87b67544a": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-33ea6830-a8ed-40d2-8070-9d0db8bbf4d0",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "41881b3df6111dfa": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-85897237-f799-4ed3-8a16-b2e94c61e56b",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "661327e94b3a893d": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-cc7a4db7-6717-4ad5-bf8f-d6de1891a849",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 1
+    },
+    "a6f81edda9aa82dc": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-58967836-6e83-48fd-8d31-a27daf7f57c3",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "b817b7343f60f2c6": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a29dd3dc-277d-4805-810c-db8aadee98d6",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 2
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3121.go": [
+      {
+        "hash": "661327e94b3a893d",
+        "line_ranges": [
+          {
+            "Range": [
+              12,
+              14
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 12
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "rust/src/leetcode/three_thousand_one_hundred_twenty_one.rs": [
+      {
+        "hash": "b817b7343f60f2c6",
+        "line_ranges": [
+          {
+            "Range": [
+              8,
+              9
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              8,
+              9
+            ]
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
