@@ -1,0 +1,124 @@
+go/leetcode/3093.go
+  550a91174fbadc4f 39-42 gitai:{"mixed_line_ranges":[{"Range":[41,42]}],"operations":[]}
+  f16fe63ee1f7aa7a 24-27 gitai:{"mixed_line_ranges":[{"Single":27}],"operations":[]}
+  f062f59de721631f 32-35
+  aa85ee9362a08664 15-19 gitai:{"mixed_line_ranges":[{"Single":19}],"operations":[]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "7797ee1fd388caae1b1f6ba218b28fe88cf7cfe6",
+  "prompts": {
+    "550a91174fbadc4f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-df2d43d5-8539-47e3-82fd-a9acc1c6a385",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 2
+    },
+    "aa85ee9362a08664": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a63138c4-b8aa-4279-928a-191562c235b5",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 1
+    },
+    "f062f59de721631f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a81abef0-a06b-4ee5-9ed8-90faaa84cfb8",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "f16fe63ee1f7aa7a": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-732c1ec4-9f38-4768-afb9-360c0db10240",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 1
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3093.go": [
+      {
+        "hash": "550a91174fbadc4f",
+        "line_ranges": [
+          {
+            "Range": [
+              39,
+              42
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              41,
+              42
+            ]
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "f16fe63ee1f7aa7a",
+        "line_ranges": [
+          {
+            "Range": [
+              24,
+              27
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 27
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "aa85ee9362a08664",
+        "line_ranges": [
+          {
+            "Range": [
+              15,
+              19
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 19
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
