@@ -1,0 +1,177 @@
+rust/src/leetcode/two_thousand_one_hundred_forty_four.rs
+  7679c718c38b9f3c 13 gitai:{"mixed_line_ranges":[{"Single":13}],"operations":[]}
+  75c264a474799de3 8 gitai:{"mixed_line_ranges":[{"Single":8}],"operations":[]}
+  e399b7a6e1fae887 15
+  1fe2df79930c8cab 11-12 gitai:{"mixed_line_ranges":[{"Single":12}],"operations":[]}
+go/leetcode/2144.go
+  bc2127a1abce0b24 10-11
+  a0427e9c18f2832a 8-9 gitai:{"mixed_line_ranges":[{"Single":9}],"operations":[]}
+  3d4343f7052ccfbd 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "6652a7c126bb5c75ffc499f1aff3eca428a491a4",
+  "prompts": {
+    "1fe2df79930c8cab": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-633d7b66-a3d8-4dbb-b318-a31789736196",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 1
+    },
+    "3d4343f7052ccfbd": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-881be619-cae0-45b9-9239-01d0ec9886c7",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "75c264a474799de3": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-b9948b4b-85e4-4220-8b42-4a86935a6eef",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 1
+    },
+    "7679c718c38b9f3c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-fc820386-f22e-4a22-bd07-a503c3470249",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 1
+    },
+    "a0427e9c18f2832a": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-38527b10-7d5d-4a55-8005-e4dd54ec3642",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 1
+    },
+    "bc2127a1abce0b24": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d4beb095-9f93-4e19-ad78-04e97f9a0d46",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "e399b7a6e1fae887": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-2368ef56-f647-4463-a2e9-89899831e6ed",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/2144.go": [
+      {
+        "hash": "a0427e9c18f2832a",
+        "line_ranges": [
+          {
+            "Range": [
+              8,
+              9
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 9
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "rust/src/leetcode/two_thousand_one_hundred_forty_four.rs": [
+      {
+        "hash": "7679c718c38b9f3c",
+        "line_ranges": [
+          {
+            "Single": 13
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 13
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "75c264a474799de3",
+        "line_ranges": [
+          {
+            "Single": 8
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 8
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "1fe2df79930c8cab",
+        "line_ranges": [
+          {
+            "Range": [
+              11,
+              12
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 12
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
