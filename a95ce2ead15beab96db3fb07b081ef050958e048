@@ -1,0 +1,80 @@
+go/leetcode/2126.go
+  ddd54a67d15caf0f 9-12
+rust/src/leetcode/two_thousand_one_hundred_twenty_six.rs
+  0e9719f9ec4c3e2d 5-10,12-13 gitai:{"mixed_line_ranges":[{"Single":8}],"operations":[]}
+  a07787efea99dc56 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a95ce2ead15beab96db3fb07b081ef050958e048",
+  "prompts": {
+    "0e9719f9ec4c3e2d": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-326fc328-d561-4aea-ac60-53ee87b1550a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 1,
+      "accepted_lines": 6,
+      "overriden_lines": 1
+    },
+    "a07787efea99dc56": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-3dd9b2d6-e7ca-4156-9459-cbfc133ea6de",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "ddd54a67d15caf0f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-59a3070d-be99-4b5a-b54b-113731693b86",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {
+    "rust/src/leetcode/two_thousand_one_hundred_twenty_six.rs": [
+      {
+        "hash": "0e9719f9ec4c3e2d",
+        "line_ranges": [
+          {
+            "Range": [
+              5,
+              10
+            ]
+          },
+          {
+            "Range": [
+              12,
+              13
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 8
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}

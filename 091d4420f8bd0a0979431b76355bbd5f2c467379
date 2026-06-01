@@ -1,0 +1,63 @@
+rust/src/leetcode/three_thousand_three_hundred.rs
+  bb33a91139a06cef 5-14 gitai:{"mixed_line_ranges":[{"Single":6},{"Single":10}],"operations":[]}
+go/leetcode/3300.go
+  60d60694771278c5 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "091d4420f8bd0a0979431b76355bbd5f2c467379",
+  "prompts": {
+    "60d60694771278c5": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-99b09baf-e345-41a6-a443-522e35331d2d",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "bb33a91139a06cef": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-917e48bb-f676-4d06-9921-9637fefad60d",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 1,
+      "accepted_lines": 8,
+      "overriden_lines": 2
+    }
+  },
+  "attestation_metadata": {
+    "rust/src/leetcode/three_thousand_three_hundred.rs": [
+      {
+        "hash": "bb33a91139a06cef",
+        "line_ranges": [
+          {
+            "Range": [
+              5,
+              14
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 6
+          },
+          {
+            "Single": 10
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
