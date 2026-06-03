@@ -1,0 +1,25 @@
+rust/src/leetcode/three_thousand_six_hundred_thirty_five.rs
+  14fdc372f177ef4f 31-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "017a7397ef1f6774abd10ba9379ee7c9f9e3f93a",
+  "prompts": {
+    "14fdc372f177ef4f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-60a977eb-f575-4d30-8859-7cc98617f58b",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 1,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
