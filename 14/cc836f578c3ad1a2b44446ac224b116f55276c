@@ -1,0 +1,135 @@
+go/leetcode/3753.go
+  fc7e6681fdbeba83 20-21
+  646eb3b25b83e62d 10
+  e2f25c053907a7bb 29-30
+  d5de60dfba9e5e67 34-35
+  3aa41276f1951bff 12
+  cc1045dae0a0a5aa 38
+  a337c90bb83a392b 55-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "14cc836f578c3ad1a2b44446ac224b116f55276c",
+  "prompts": {
+    "37b0dc92991c2cc1": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-c91a4050-a3dc-4e9c-b7b3-25baa8823629",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "3aa41276f1951bff": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-31cc883f-e4a4-460a-81b6-a2f472cd910e",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "646eb3b25b83e62d": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-75444e4e-a474-48fe-a185-eee5f6b491b0",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "677d04aeba96a5d2": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-9eee0f22-2668-422a-8d2f-aa5d984b5d04",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "a337c90bb83a392b": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-4ed36aa0-9745-444e-99fc-253650dea2ff",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "cc1045dae0a0a5aa": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-7927ad75-885e-4dd0-bc33-6f266f7dc679",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "d5de60dfba9e5e67": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-bf945ccc-23bf-4d23-9fae-a6410c79b95c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "e2f25c053907a7bb": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-ffecf8bb-a73d-4b98-88b1-8529f42aef43",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "fc7e6681fdbeba83": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-994ceb61-2606-4704-9202-a298c9ce9579",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
