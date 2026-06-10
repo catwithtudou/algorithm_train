@@ -1,0 +1,21 @@
+go/leetcode/3691.go
+  s_c1dbd042d20a13::t_3700a1a90fb0d1 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b175cebc36b086191bcc3b5cac593e777421362a",
+  "prompts": {},
+  "sessions": {
+    "s_c1dbd042d20a13": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d96988ea-f2dc-4715-ad08-0c61d1f806bf",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
