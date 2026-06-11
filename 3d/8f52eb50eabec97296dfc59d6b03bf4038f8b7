@@ -1,0 +1,18 @@
+rust/src/leetcode/three_thousand_five_hundred_fifty_eight.rs
+  h_13a4a7074a38e2 3-50
+go/leetcode/3558.go
+  h_13a4a7074a38e2 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3d8f52eb50eabec97296dfc59d6b03bf4038f8b7",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
