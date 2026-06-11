@@ -1,0 +1,143 @@
+go/leetcode/3558.go
+  s_e9301f82099b1c::t_b2427be1176e7b 7-8,11-12 gitai:{"mixed_line_ranges":[{"Range":[7,8]},{"Single":11}],"operations":[]}
+  s_17ceea87f65d9e::t_06938ebd3c98e0 10
+  h_13a4a7074a38e2 35,37,40 gitai:{"mixed_line_ranges":[{"Single":35}],"operations":[]}
+  s_0b57d8747c586d::t_4f19ab429fb2ad 14 gitai:{"mixed_line_ranges":[{"Single":14}],"operations":[]}
+  s_150e2b9c252f25::t_940284866365c9 18 gitai:{"mixed_line_ranges":[{"Single":18}],"operations":[]}
+  s_ad3b5585dd55b9::t_3f0932e969667b 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "be610f68191ea15b89abe3bd7269e4bcb78abea2",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_0b57d8747c586d": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-06036412-84e2-4f66-be3c-1f36b68e029a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_150e2b9c252f25": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-4a417130-c750-4bb2-b02b-cb3e0e20e89a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_17ceea87f65d9e": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-abe5984d-952c-4c22-ba7b-06eb468c1f74",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_ad3b5585dd55b9": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-da1860da-fbb4-45e1-a1af-94ff33e4f13b",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_e9301f82099b1c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-0295457b-1efe-412d-b2ef-59f01651b541",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3558.go": [
+      {
+        "hash": "s_e9301f82099b1c::t_b2427be1176e7b",
+        "line_ranges": [
+          {
+            "Range": [
+              7,
+              8
+            ]
+          },
+          {
+            "Range": [
+              11,
+              12
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              7,
+              8
+            ]
+          },
+          {
+            "Single": 11
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "h_13a4a7074a38e2",
+        "line_ranges": [
+          {
+            "Single": 35
+          },
+          {
+            "Single": 37
+          },
+          {
+            "Single": 40
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 35
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_0b57d8747c586d::t_4f19ab429fb2ad",
+        "line_ranges": [
+          {
+            "Single": 14
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 14
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_150e2b9c252f25::t_940284866365c9",
+        "line_ranges": [
+          {
+            "Single": 18
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 18
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
