@@ -23,7 +23,7 @@ func assignEdgeWeights(edges [][]int) int {
 
 	k := dfs(1, 0)
 
-	return pow(2, k-1)
+	return powCommon(2, k-1)
 
 }
 
