@@ -1,0 +1,18 @@
+rust/src/leetcode/two_thousand_ninety_five.rs
+  h_13a4a7074a38e2 1-36
+go/leetcode/2095.go
+  h_13a4a7074a38e2 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c06cbac2b7fdce273d8234aa2d90f6b2a72ce6ab",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
