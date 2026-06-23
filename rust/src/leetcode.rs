@@ -760,6 +760,7 @@ pub mod three_thousand_six_hundred_sixty_one;
 pub mod three_thousand_six_hundred_sixty_six;
 pub mod three_thousand_six_hundred_eighty_nine;
 pub mod three_thousand_six_hundred_ninety_one;
+pub mod three_thousand_six_hundred_ninety_nine;
 pub mod three_thousand_seven_hundred_thirteen;
 pub mod three_thousand_seven_hundred_fourteen;
 pub mod three_thousand_seven_hundred_nineteen;
