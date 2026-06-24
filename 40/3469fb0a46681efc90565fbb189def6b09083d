@@ -1,0 +1,105 @@
+go/leetcode/3700.go
+  h_13a4a7074a38e2 44,54,68-69
+  s_0c6b0aa613a1c8::t_6119e8e9abbc66 34-41
+  s_78e305c1d741a5::t_ca1355cc90a9fe 51 gitai:{"mixed_line_ranges":[{"Single":51}],"operations":[]}
+  s_80ace04cac94c1::t_0daa94a65fada5 9
+  s_af537db834dd4d::t_21214c3ff481e1 64 gitai:{"mixed_line_ranges":[{"Single":64}],"operations":[]}
+  s_9754e0d6dd8d21::t_0af21786f2328c 66
+  s_a82c0d4da6d49f::t_29b3d34fc4a3b0 16
+rust/src/leetcode/three_thousand_seven_hundred.rs
+  h_13a4a7074a38e2 1-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "403469fb0a46681efc90565fbb189def6b09083d",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_0c6b0aa613a1c8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-def1f50f-4022-4d10-8e95-801c869a065d",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_78e305c1d741a5": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-99ba98f5-713c-42be-8aef-18dc56cf8c61",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_80ace04cac94c1": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-19baa996-e336-444f-9e5b-a9950e5a634a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_9754e0d6dd8d21": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-66104953-a731-4ef5-9cff-1f051f476065",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_a82c0d4da6d49f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-378c354a-88e0-4ea3-ae29-4010f60fd6b5",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_af537db834dd4d": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-90bec732-d46f-44d7-bfd6-0bad0e2e0805",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3700.go": [
+      {
+        "hash": "s_78e305c1d741a5::t_ca1355cc90a9fe",
+        "line_ranges": [
+          {
+            "Single": 51
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 51
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_af537db834dd4d::t_21214c3ff481e1",
+        "line_ranges": [
+          {
+            "Single": 64
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 64
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
