@@ -1,0 +1,37 @@
+rust/src/leetcode/one_thousand_nine_hundred_sixty_seven.rs
+  s_20f4217e00c03c::t_d0abc59763dd66 5-11
+go/leetcode/1967.go
+  s_3830fa0d2d38f8::t_a492fbaeb30964 7-11
+  h_13a4a7074a38e2 3-4,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c114f0fa0dc63aa2c7f2876cad52d37fdb3e79f2",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_20f4217e00c03c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-3f464011-167d-44ab-acaf-6b3689f17ea8",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_3830fa0d2d38f8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d62cb2cf-d53d-4ccd-8605-8cf1455effe2",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
