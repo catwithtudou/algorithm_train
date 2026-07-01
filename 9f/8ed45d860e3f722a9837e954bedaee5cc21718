@@ -1,0 +1,162 @@
+rust/src/leetcode/two_thousand_eight_hundred_twelve.rs
+  h_13a4a7074a38e2 1-93
+go/leetcode/2812.go
+  s_bf89e451e397ef::t_e98bbc3bff82ea 34-35
+  s_61b043ec9d6294::t_7bb7bc8d40ce35 3
+  s_b0b3ec1a2d71ea::t_3bac40773161ae 31
+  s_21850fe4b43e3b::t_9c854ee4b6070e 58-61 gitai:{"mixed_line_ranges":[{"Range":[59,60]}],"operations":[]}
+  s_7edbff0c5c6a06::t_8f23eed52d5813 56
+  s_ab6ff58083678b::t_5d9cc90707c838 17
+  s_c4f2e66cfd829f::t_9213021a627952 41
+  s_73fddb128d397b::t_f33197b27ac680 43
+  s_61bbb661dd371e::t_5b930d594ddc10 48-51
+  s_53a47abc02c5e6::t_3dec18127461cd 64-66
+  h_13a4a7074a38e2 32-33,38,69 gitai:{"mixed_line_ranges":[{"Range":[32,33]},{"Single":38}],"operations":[]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9f8ed45d860e3f722a9837e954bedaee5cc21718",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_21850fe4b43e3b": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-83eee22e-64f3-484e-8b74-4ed090415be7",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_53a47abc02c5e6": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-6ffe77f3-9672-4fa3-a46d-5ec670c48a59",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_61b043ec9d6294": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-46ba0f9b-d781-46d8-bff5-95c447f1e5c0",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_61bbb661dd371e": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-1764033c-79b0-4234-a387-549fb6db4264",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_73fddb128d397b": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-ec091688-2cd3-4737-b4d8-567cd1ec9686",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_7edbff0c5c6a06": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-99e3be59-0e5a-44b2-a176-23f810dceb36",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_ab6ff58083678b": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-0f057c32-9e59-434c-9dea-942e1de170a6",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_b0b3ec1a2d71ea": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-f7076e70-2ffc-4066-8bc1-e4907202bb9c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_bf89e451e397ef": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-7ba66488-ff81-4863-a282-8a77c9b5c854",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_c4f2e66cfd829f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-2aa0b1b9-ed2f-47a9-af5a-d31aa5a5f05c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/2812.go": [
+      {
+        "hash": "s_21850fe4b43e3b::t_9c854ee4b6070e",
+        "line_ranges": [
+          {
+            "Range": [
+              58,
+              61
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              59,
+              60
+            ]
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "h_13a4a7074a38e2",
+        "line_ranges": [
+          {
+            "Range": [
+              32,
+              33
+            ]
+          },
+          {
+            "Single": 38
+          },
+          {
+            "Single": 69
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              32,
+              33
+            ]
+          },
+          {
+            "Single": 38
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
