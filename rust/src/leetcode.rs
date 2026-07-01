@@ -460,6 +460,7 @@ pub mod two_thousand_six_hundred_fifty_four;
 pub mod two_thousand_six_hundred_fifty_seven;
 pub mod two_thousand_seven_hundred_fifty_one;
 pub mod two_thousand_seven_hundred_eighty_four;
+pub mod two_thousand_eight_hundred_twelve;
 pub mod two_thousand_eight_hundred_thirty_three;
 pub mod two_thousand_eight_hundred_thirty_nine;
 pub mod two_thousand_eight_hundred_forty;
