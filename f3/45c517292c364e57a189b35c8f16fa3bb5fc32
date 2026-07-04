@@ -1,0 +1,75 @@
+rust/src/leetcode/two_thousand_four_hundred_ninety_two.rs
+  h_13a4a7074a38e2 1-41
+go/leetcode/2492.go
+  s_c1fcd027fdc9e3::t_cc942008e70df1 22-24,26,28
+  s_202d0ea7f9ef19::t_218eb2e619da48 10-14,29 gitai:{"mixed_line_ranges":[{"Range":[11,13]}],"operations":[]}
+  s_ce8c03feeecce2::t_faac309f6cc95d 17
+  h_13a4a7074a38e2 25,27
+  s_202d0ea7f9ef19::t_4bb782114be676 7-9
+  s_202d0ea7f9ef19::t_a7f3f74a0580c0 30-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "f345c517292c364e57a189b35c8f16fa3bb5fc32",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_202d0ea7f9ef19": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-956cd27f-6811-49d9-bfc8-1c6cabb592f6",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_c1fcd027fdc9e3": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-47379daf-33ab-4024-a0a3-ff88009ebf79",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_ce8c03feeecce2": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-606502da-93b7-43e8-be6a-dcf797566a15",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/2492.go": [
+      {
+        "hash": "s_202d0ea7f9ef19::t_218eb2e619da48",
+        "line_ranges": [
+          {
+            "Range": [
+              10,
+              14
+            ]
+          },
+          {
+            "Single": 29
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              11,
+              13
+            ]
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
