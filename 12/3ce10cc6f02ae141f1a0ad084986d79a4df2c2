@@ -1,0 +1,79 @@
+rust/src/leetcode/three_thousand_seven_hundred_fifty_four.rs
+  s_a0b86ea4f9ff93::t_0230d81c2dc33f 5-18
+  s_a0b86ea4f9ff93::t_c3c558da7bac41 2-4
+  s_a0b86ea4f9ff93::t_37e0ad21203c25 19-20
+go/leetcode/3754.go
+  s_555cc5a22f8605::t_c9c0293d6a65f9 5-6,12-13 gitai:{"mixed_line_ranges":[{"Range":[5,6]}],"operations":[]}
+  s_72a93d519e20cf::t_f20545d76da455 10
+  h_13a4a7074a38e2 8
+  s_555cc5a22f8605::t_4ade1d36582e87 2-4
+  s_555cc5a22f8605::t_a8211c7ac5f219 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "123ce10cc6f02ae141f1a0ad084986d79a4df2c2",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_555cc5a22f8605": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-370b52a3-b432-4c7f-8f90-5d2703cb9a33",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_72a93d519e20cf": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-24b77566-d593-4b4e-a7b5-223bfef56b82",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_a0b86ea4f9ff93": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-905de28d-d9dc-4198-8cc5-13904145113c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3754.go": [
+      {
+        "hash": "s_555cc5a22f8605::t_c9c0293d6a65f9",
+        "line_ranges": [
+          {
+            "Range": [
+              5,
+              6
+            ]
+          },
+          {
+            "Range": [
+              12,
+              13
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              5,
+              6
+            ]
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
