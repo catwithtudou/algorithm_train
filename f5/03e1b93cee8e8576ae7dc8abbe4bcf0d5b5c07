@@ -1,0 +1,141 @@
+go/leetcode/3756.go
+  s_9dd59137785d8e::t_44353b86ca99c6 18
+  s_0149beddae662b::t_dff68aa8d63395 33 gitai:{"mixed_line_ranges":[{"Single":33}],"operations":[]}
+  s_dae9faaf938e9c::t_9f38750cc54905 34
+  s_a9b5225bec0d67::t_0dd1ef342716e4 23
+  s_5e31fa2b3cd8d1::t_8961edee5403db 32
+  s_119cd26d32af8c::t_a4968b73bc98d6 19-22 gitai:{"mixed_line_ranges":[{"Single":22}],"operations":[]}
+  h_13a4a7074a38e2 37
+  s_2be6594a6cf8fa::t_b8810f467f4417 6-8,26,35 gitai:{"mixed_line_ranges":[{"Single":7}],"operations":[]}
+  s_2be6594a6cf8fa::t_dace8be61d4878 3-5
+rust/src/leetcode/three_thousand_seven_hundred_fifty_six.rs
+  h_13a4a7074a38e2 1-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f503e1b93cee8e8576ae7dc8abbe4bcf0d5b5c07",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_0149beddae662b": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-4461814f-ad79-4db6-a7e8-a110306e61f7",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_119cd26d32af8c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-73d19d61-5825-479b-9f23-821501670daa",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_2be6594a6cf8fa": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-64755f3e-6e7e-4fde-8bbc-540573a99fa5",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_5e31fa2b3cd8d1": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-cef608ac-d653-4fb5-84b8-33b61e5cf30a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_9dd59137785d8e": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a513d35f-dd9a-439f-8ceb-7a92b0a6f2cc",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_a9b5225bec0d67": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-9e072cab-389b-4d6e-87aa-76df50aee305",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_dae9faaf938e9c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-1e164660-7938-4e3b-9bb8-3b6c7d732472",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3756.go": [
+      {
+        "hash": "s_0149beddae662b::t_dff68aa8d63395",
+        "line_ranges": [
+          {
+            "Single": 33
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 33
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_119cd26d32af8c::t_a4968b73bc98d6",
+        "line_ranges": [
+          {
+            "Range": [
+              19,
+              22
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 22
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_2be6594a6cf8fa::t_b8810f467f4417",
+        "line_ranges": [
+          {
+            "Range": [
+              6,
+              8
+            ]
+          },
+          {
+            "Single": 26
+          },
+          {
+            "Single": 35
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 7
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
