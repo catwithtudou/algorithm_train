@@ -1,0 +1,127 @@
+go/leetcode/3532.go
+  h_13a4a7074a38e2 13,17 gitai:{"mixed_line_ranges":[{"Single":13}],"operations":[]}
+  s_dfb23eda6700a4::t_bf9ddfa58fd606 7-11,16 gitai:{"mixed_line_ranges":[{"Range":[7,9]}],"operations":[]}
+  s_6304ccfd0a548f::t_9916b08f4a2c0d 18
+  s_6eb92e7b34c0c5::t_2085be8b5fec1f 6
+  s_6eb92e7b34c0c5::t_092859aa72b80e 3-5
+  s_6304ccfd0a548f::t_90e5af3abe70ee 19
+rust/src/leetcode/three_thousand_five_hundred_thirty_two.rs
+  s_06cd066452647a::t_1db5b85d0289c0 14 gitai:{"mixed_line_ranges":[{"Single":14}],"operations":[]}
+  s_dc202dc66997e0::t_847ed125010370 12,16-18
+  h_13a4a7074a38e2 21
+  s_dc202dc66997e0::t_68c793033cde78 9-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4958136cd5394aa9ad9c4bf023f94f52449416e2",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_06cd066452647a": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a902c1d4-d149-47bc-b218-4944e0e4fe31",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_6304ccfd0a548f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-41feae6b-f6e4-4aa4-ae1a-539bb2266e2a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_6eb92e7b34c0c5": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-fbcff2fe-f5e4-4327-8756-4cb119f8a6d9",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_dc202dc66997e0": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-fc916ddd-fa96-4683-a3ae-5dd85c256ebe",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_dfb23eda6700a4": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-f38e019b-667a-45c6-bd71-33369421483f",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3532.go": [
+      {
+        "hash": "h_13a4a7074a38e2",
+        "line_ranges": [
+          {
+            "Single": 13
+          },
+          {
+            "Single": 17
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 13
+          }
+        ],
+        "operations": []
+      },
+      {
+        "hash": "s_dfb23eda6700a4::t_bf9ddfa58fd606",
+        "line_ranges": [
+          {
+            "Range": [
+              7,
+              11
+            ]
+          },
+          {
+            "Single": 16
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              7,
+              9
+            ]
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "rust/src/leetcode/three_thousand_five_hundred_thirty_two.rs": [
+      {
+        "hash": "s_06cd066452647a::t_1db5b85d0289c0",
+        "line_ranges": [
+          {
+            "Single": 14
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 14
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
