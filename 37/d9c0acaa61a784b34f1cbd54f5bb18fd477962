@@ -1,0 +1,61 @@
+rust/src/leetcode/one_thousand_two_hundred_ninety_one.rs
+  h_13a4a7074a38e2 1-26
+go/leetcode/1291.go
+  h_13a4a7074a38e2 3-4,15,18-19,21 gitai:{"mixed_line_ranges":[{"Single":15}],"operations":[]}
+  s_787ea05d100bc8::t_d52cbdf0e7d1f2 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "37d9c0acaa61a784b34f1cbd54f5bb18fd477962",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_787ea05d100bc8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-09f828cd-258f-47fd-9131-afe374b2ce0c",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/1291.go": [
+      {
+        "hash": "h_13a4a7074a38e2",
+        "line_ranges": [
+          {
+            "Range": [
+              3,
+              4
+            ]
+          },
+          {
+            "Single": 15
+          },
+          {
+            "Range": [
+              18,
+              19
+            ]
+          },
+          {
+            "Single": 21
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 15
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
