@@ -1,0 +1,30 @@
+go/leetcode/3658.go
+  s_1884f9fb21181f::t_f1215134ca250d 4
+  s_1884f9fb21181f::t_563a21f4c8a045 1-3
+  s_1884f9fb21181f::t_6b646203d79d68 5
+rust/src/leetcode/three_thousand_six_hundred_fifty_eight.rs
+  h_13a4a7074a38e2 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "28fea2aefc6a94246844f9299f845a2e5fd0617f",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_1884f9fb21181f": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-31c183aa-0ab4-4c7e-872d-760be81aa9a7",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
