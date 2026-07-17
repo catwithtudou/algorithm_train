@@ -687,6 +687,7 @@ pub mod three_thousand_three_hundred_and_four;
 pub mod three_thousand_three_hundred_and_five;
 pub mod three_thousand_three_hundred_and_six;
 pub mod three_thousand_three_hundred_and_seven;
+pub mod three_thousand_three_hundred_twelve;
 pub mod three_thousand_three_hundred_fifteen;
 pub mod three_thousand_three_hundred_eighteen;
 pub mod three_thousand_three_hundred_and_thirty;
