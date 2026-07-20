@@ -1,0 +1,67 @@
+go/leetcode/1260.go
+  h_13a4a7074a38e2 18-19
+  s_98e7299855e2ca::t_6210c6d1345715 4
+  s_0cbf86377916e8::t_9b484d853832bf 6
+  s_860efe59164bf7::t_aeb2e92bb5b365 5
+  s_42f91a10680b8c::t_a0d6338f6eaf5a 14-15
+  s_98e7299855e2ca::t_d7f7a2af6f6eae 1-3
+rust/src/leetcode/one_thousand_two_hundred_sixty.rs
+  s_7a0f5443da3290::t_436d965843d517 10-11
+  s_7a0f5443da3290::t_7abe7ff8c702b0 7-9
+  s_7a0f5443da3290::t_16401cd9286a6e 12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c1fcc87557e5d3c3b44c8e6b96dd07962ba5d8b9",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_0cbf86377916e8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-4838df53-425c-49b3-9f56-1fc6129d6122",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_42f91a10680b8c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-e9aa2e89-4431-4de6-9b95-63d1df8fb9a7",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_7a0f5443da3290": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-64c50df0-cba1-4fec-b899-2b29e06ffc7a",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_860efe59164bf7": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a9691f0f-812a-44d5-b42e-c4351fb0e50e",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_98e7299855e2ca": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-a1f614d6-6a63-4f4a-a75d-27d0cef66676",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
