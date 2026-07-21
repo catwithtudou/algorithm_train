@@ -1,0 +1,128 @@
+rust/src/leetcode/three_thousand_four_hundred_ninety_nine.rs
+  s_cde48aaafa49fe::t_087ca3881a48f6 19,25-26
+  h_13a4a7074a38e2 5-18,20-24,27-28 gitai:{"mixed_line_ranges":[{"Range":[8,10]},{"Range":[12,13]},{"Range":[16,18]},{"Range":[20,21]},{"Single":24},{"Single":28}],"operations":[]}
+go/leetcode/3499.go
+  s_88c9db4086fad7::t_ace3ad7c281cf4 15-20,24 gitai:{"mixed_line_ranges":[{"Single":20}],"operations":[]}
+  h_13a4a7074a38e2 3-4,23,27
+  s_ed15fa78e3ce41::t_f37bc44aa1ed7c 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "041decbe8663f288e97e5cf3fc0ec3f2d1612fe0",
+  "prompts": {},
+  "humans": {
+    "h_13a4a7074a38e2": {
+      "author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_88c9db4086fad7": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-aeab6dd4-60a9-405e-b62b-206719c04062",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_cde48aaafa49fe": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-2abbf9d4-bba5-40a7-96ce-c9fb668deb6d",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    },
+    "s_ed15fa78e3ce41": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-aaeef05e-73a2-4b40-9a5c-1fff3a17f492",
+        "model": "default"
+      },
+      "human_author": "catwithtudou <949812478@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "go/leetcode/3499.go": [
+      {
+        "hash": "s_88c9db4086fad7::t_ace3ad7c281cf4",
+        "line_ranges": [
+          {
+            "Range": [
+              15,
+              20
+            ]
+          },
+          {
+            "Single": 24
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 20
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "rust/src/leetcode/three_thousand_four_hundred_ninety_nine.rs": [
+      {
+        "hash": "h_13a4a7074a38e2",
+        "line_ranges": [
+          {
+            "Range": [
+              5,
+              18
+            ]
+          },
+          {
+            "Range": [
+              20,
+              24
+            ]
+          },
+          {
+            "Range": [
+              27,
+              28
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              8,
+              10
+            ]
+          },
+          {
+            "Range": [
+              12,
+              13
+            ]
+          },
+          {
+            "Range": [
+              16,
+              18
+            ]
+          },
+          {
+            "Range": [
+              20,
+              21
+            ]
+          },
+          {
+            "Single": 24
+          },
+          {
+            "Single": 28
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
