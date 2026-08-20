@@ -593,6 +593,7 @@ pub mod three_thousand_forty_seven;
 pub mod three_thousand_and_sixty_five;
 pub mod three_thousand_and_sixty_six;
 pub mod three_thousand_and_sixty_eight;
+pub mod three_thousand_sixty_nine;
 pub mod three_thousand_seventy;
 pub mod three_thousand_seventy_four;
 pub mod three_thousand_seventy_five;
