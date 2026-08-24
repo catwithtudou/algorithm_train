@@ -134,6 +134,7 @@ pub mod one_thousand_eight_hundred_forty_eight;
 pub mod one_thousand_eight_hundred_fifty_five;
 pub mod one_thousand_eight_hundred_sixty_one;
 pub mod one_thousand_eight_hundred_seventy_one;
+pub mod one_thousand_eight_hundred_seventy_two;
 pub mod one_thousand_eight_hundred_seventy_seven;
 pub mod one_thousand_eight_hundred_seventy_eight;
 pub mod one_thousand_eight_hundred_eighty_six;
