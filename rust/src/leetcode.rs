@@ -821,6 +821,7 @@ pub mod three_thousand_seven_hundred_eighteen;
 pub mod three_thousand_seven_hundred_nineteen;
 pub mod three_thousand_seven_hundred_twenty;
 pub mod three_thousand_seven_hundred_thirty_one;
+pub mod three_thousand_seven_hundred_thirty_four;
 pub mod three_thousand_seven_hundred_thirty_seven;
 pub mod three_thousand_seven_hundred_thirty_nine;
 pub mod three_thousand_seven_hundred_forty;
