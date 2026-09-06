@@ -26,6 +26,7 @@ pub mod ninety;
 pub mod one_hundred_and_two;
 pub mod one_hundred_and_six;
 pub mod one_hundred_ten;
+pub mod one_hundred_fifteen;
 pub mod one_hundred_and_seventeen;
 pub mod one_hundred_and_eighteen;
 pub mod one_hundred_and_nineteen;
