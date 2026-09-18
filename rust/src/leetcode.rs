@@ -110,6 +110,7 @@ pub mod one_thousand_four_hundred_sixty_four;
 pub mod one_thousand_four_hundred_seventy_seven;
 pub mod one_thousand_five_hundred_ten;
 pub mod one_thousand_five_hundred_thirteen;
+pub mod one_thousand_five_hundred_twenty;
 pub mod one_thousand_five_hundred_twenty_three;
 pub mod one_thousand_five_hundred_twenty_six;
 pub mod one_thousand_five_hundred_forty_five;
