@@ -3,6 +3,7 @@ pub mod twenty;
 pub mod twenty_two;
 pub mod twenty_four;
 pub mod twenty_seven;
+pub mod thirty_two;
 pub mod thirty_three;
 pub mod thirty_six;
 pub mod forty;
