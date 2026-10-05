@@ -70,6 +70,7 @@ pub mod seven_hundred_ninety_nine;
 pub mod eight_hundred_thirty_five;
 pub mod eight_hundred_thirty_six;
 pub mod eight_hundred_forty;
+pub mod eight_hundred_fifty_six;
 pub mod eight_hundred_sixty_five;
 pub mod eight_hundred_sixty_eight;
 pub mod nine_hundred_forty;
