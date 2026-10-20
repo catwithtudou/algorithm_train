@@ -880,6 +880,7 @@ pub mod three_thousand_eight_hundred_seventy;
 pub mod three_thousand_eight_hundred_seventy_one;
 pub mod three_thousand_eight_hundred_seventy_five;
 pub mod three_thousand_eight_hundred_seventy_six;
+pub mod three_thousand_eight_hundred_eighty_six;
 pub mod three_thousand_nine_hundred_three;
 pub mod three_thousand_nine_hundred_four;
 
