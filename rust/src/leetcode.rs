@@ -163,6 +163,7 @@ pub mod one_thousand_eight_hundred_seventy_one;
 pub mod one_thousand_eight_hundred_seventy_two;
 pub mod one_thousand_eight_hundred_seventy_seven;
 pub mod one_thousand_eight_hundred_seventy_eight;
+pub mod one_thousand_eight_hundred_eighty_two;
 pub mod one_thousand_eight_hundred_eighty_six;
 pub mod one_thousand_eight_hundred_eighty_eight;
 pub mod one_thousand_eight_hundred_ninety_five;
